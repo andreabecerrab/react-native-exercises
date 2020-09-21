@@ -1,3 +1,3 @@
-Impleting GoogleAds in react native application
+### Impleting GoogleAds
 
 ![alt text](https://github.com/andreabecerrab/react-native-exercises/blob/master/Ads/adsscreen.png)
