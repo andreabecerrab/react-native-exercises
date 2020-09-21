@@ -7,7 +7,6 @@ React Native Exercises for Mobile Application (TTOW0615) at Jamk Univeristy of A
 ```
 npm i
 npm start
-
 ```
 
 Replace with this node_modules/metro-confrig/src/defuaults/blacklist.js !!
