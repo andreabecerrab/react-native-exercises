@@ -1,1 +1,3 @@
-## Finnkino application 
+## Finnkino application
+
+‼️‼️ Just works in Finland network
